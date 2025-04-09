@@ -34,10 +34,28 @@
  */
 
 
- let someNumber = 45
- console.log(typeof someNumber)
-console.log(someNumber)
+//  let someNumber = 45
+//  console.log(typeof someNumber)
+// console.log(someNumber)
 
- let stringNumber = String(someNumber)
- console.log(typeof stringNumber)
- console.log(stringNumber)
+//  let stringNumber = String(someNumber)
+//  console.log(typeof stringNumber)
+//  console.log(stringNumber)
+
+
+
+//          Operations
+
+
+// console.log(2+1)
+// console.log(2*1)
+// console.log(2/1)
+// console.log(2%3)
+// console.log(2**2)
+
+console.log("1" + 2 + 2)
+console.log(1 + 2 + "2")
+
+
+
+

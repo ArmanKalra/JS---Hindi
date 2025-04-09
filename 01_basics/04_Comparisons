@@ -1,0 +1,14 @@
+// console.log(null > 0)    // false
+// console.log(null == 0)   //false
+// console.log(null >= 0)   //true
+// Never use these types of comparisons. 
+
+//  == and other comparison operators like >=,>,< works differently as these convert null directly to 0
+
+console.log("02">=2)
+
+// ==    Just Check for value.
+console.log("2" == 2)
+
+// ===   It checks for both value and datatype (Strict Comparisions)
+console.log("2" === 2)
